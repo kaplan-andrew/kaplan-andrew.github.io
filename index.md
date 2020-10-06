@@ -3,7 +3,7 @@
 	<head>
         <meta charset = "UTF-8">
         <script src="https://d3js.org/d3.v3.min.js"></script>
-        <script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
+        <script src="https://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
         <title>Project 1</title>
         <style>
             .deathdates {
